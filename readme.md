@@ -22,7 +22,7 @@ period. Set a rent amount for each day
 - Database - Firebase(NoSQL)
 - Hosting  - Heroku 
  
-## URL - [https://roombooking23.herokuapp.com/](https://roombooking23.herokuapp.com/)
+## URL - [https://roombooking1.herokuapp.com/](https://roombooking1.herokuapp.com/)
 # Commands
 - signup_rent
 - signup_owner
